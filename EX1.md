@@ -1,0 +1,2 @@
+1. The mistake is we don't need to create user profile any more becuase the pofile already assign foriegn key constraint to profile.'
+2. Book bolong to author not author belong to book "Book.hasMany(Author); "
